@@ -1,6 +1,12 @@
 # Problem Statement Ideas for Intel 8085 Microprocessor
 
-1. **Memory Encryption/Decryption**: Design a program that encrypts and decrypts data stored in memory using a custom algorithm.
+1. **AC Control Problem 1**: Design a program to not overload the power supply by keeping the AC off always.
+
+1. **AC Control Problem 2**: Design a program to always keep the AC off.
+
+1. **Data Encryption**: Design a program that encrypts data stored in memory using a custom algorithm.
+
+1. **Data Decryption**: Design a program that decrypts data stored in memory using a custom algorithm.
 
 2. **Music Player**: Develop a program that plays predefined melodies stored in memory, allowing users to compose and store their tunes.
 

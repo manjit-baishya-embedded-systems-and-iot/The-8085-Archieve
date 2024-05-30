@@ -24,3 +24,6 @@ MOV B,M         ; copy data from memory location 8745H to REGISTER B
 HLT
 
 ;-----------------------------------------------------------------------
+
+MVI A,5DH 
+STA 3000H 
