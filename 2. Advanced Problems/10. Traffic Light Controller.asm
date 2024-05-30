@@ -31,6 +31,7 @@
 
 DELAY:
         MVI C, 0FFH
+
 DELAY_LOOP:
         DCR C
         JNZ DELAY_LOOP
