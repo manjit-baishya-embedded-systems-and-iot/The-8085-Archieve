@@ -1,2 +1,0 @@
-# **Blind Control System:**
-

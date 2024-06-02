@@ -1,2 +1,0 @@
-# **Burglar Alarm System:**
-

@@ -1,2 +1,0 @@
-# **Room Temperature Logger:**
-

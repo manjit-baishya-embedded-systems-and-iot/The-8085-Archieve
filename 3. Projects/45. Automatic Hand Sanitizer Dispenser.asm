@@ -1,2 +1,0 @@
-# **Automatic Hand Sanitizer Dispenser:**
-

@@ -1,2 +1,0 @@
-# **Fan Speed Controller:**
-

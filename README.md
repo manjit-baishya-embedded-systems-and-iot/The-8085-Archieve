@@ -1,4 +1,5 @@
 # **Welcome to 8085 Assembly Language Repository!** 🚀
+![header image](/assets/header.png)
 
 ![8085 Assembly Language](https://img.shields.io/badge/Language-8085%20Assembly-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)

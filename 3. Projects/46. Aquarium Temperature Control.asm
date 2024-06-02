@@ -1,2 +1,0 @@
-# **Aquarium Temperature Control:**
-

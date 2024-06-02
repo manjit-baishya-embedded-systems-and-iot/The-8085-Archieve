@@ -1,2 +1,0 @@
-# **Robotic Arm Control:**
-

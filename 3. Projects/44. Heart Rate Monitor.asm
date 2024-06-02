@@ -1,2 +1,0 @@
-# **Heart Rate Monitor:**
-
